@@ -1,5 +1,4 @@
 baseURL = "http://jadenisco.github.io/vpp-landing-page"
-#baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
