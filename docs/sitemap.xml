@@ -3,17 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jadenisco.github.io/vpp-landing-page/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jadenisco.github.io/vpp-landing-page/getting-start/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jadenisco.github.io/vpp-landing-page/related/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jadenisco.github.io/vpp-landing-page/archives/</loc>
+  </url>
+  
+  <url>
     <loc>http://jadenisco.github.io/vpp-landing-page/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jadenisco.github.io/vpp-landing-page/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jadenisco.github.io/vpp-landing-page/</loc>
     <priority>0</priority>
   </url>
   

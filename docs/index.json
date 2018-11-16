@@ -1,5 +1,33 @@
 [
 {
+	"uri": "http://jadenisco.github.io/vpp-landing-page/",
+	"title": "Home Page",
+	"tags": [],
+	"description": "",
+	"content": " Vector Packet Processor This is the landing page for the VPP documentation\n"
+},
+{
+	"uri": "http://jadenisco.github.io/vpp-landing-page/getting-start/",
+	"title": "Getting Started",
+	"tags": [],
+	"description": "",
+	"content": " Users This is the link for users\nUsers\nDevelopers This is the link for developers\nDevelopers\n"
+},
+{
+	"uri": "http://jadenisco.github.io/vpp-landing-page/related/",
+	"title": "Related Projects",
+	"tags": [],
+	"description": "",
+	"content": "Related Projects\n"
+},
+{
+	"uri": "http://jadenisco.github.io/vpp-landing-page/archives/",
+	"title": "Archives",
+	"tags": [],
+	"description": "",
+	"content": "Archives\n"
+},
+{
 	"uri": "http://jadenisco.github.io/vpp-landing-page/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -9,13 +37,6 @@
 {
 	"uri": "http://jadenisco.github.io/vpp-landing-page/tags/",
 	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://jadenisco.github.io/vpp-landing-page/",
-	"title": "Vector Packet Processor (VPP)",
 	"tags": [],
 	"description": "",
 	"content": ""
