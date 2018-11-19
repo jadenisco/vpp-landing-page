@@ -4,28 +4,28 @@
 	"title": "Home Page",
 	"tags": [],
 	"description": "",
-	"content": " Vector Packet Processor This is the landing page for the VPP documentation\n"
+	"content": " Vector Packet Processor These pages are to be used as a mock up for the VPP documentation landing page.\n"
 },
 {
 	"uri": "http://jadenisco.github.io/vpp-landing-page/getting-start/",
 	"title": "Getting Started",
 	"tags": [],
 	"description": "",
-	"content": " Users This is the link for users\nUsers\nDevelopers This is the link for developers\nDevelopers\n"
+	"content": " The VPP documentation is geared for two different audiences, Users and Developers. The Users are those that want to use VPP. Users install VPP from packages and want to use the many features VPP offers. Developers want to build VPP and either debug or develop some new VPP feautures.\nUsers This is the link for users\nUsers\nDevelopers This is the link for developers\nDevelopers\n"
 },
 {
 	"uri": "http://jadenisco.github.io/vpp-landing-page/related/",
 	"title": "Related Projects",
 	"tags": [],
 	"description": "",
-	"content": "Related Projects\n"
+	"content": " Related Projects These are the links to some of the projects that use VPP.\nRelated Projects\n"
 },
 {
 	"uri": "http://jadenisco.github.io/vpp-landing-page/archives/",
 	"title": "Archives",
 	"tags": [],
 	"description": "",
-	"content": "Archives\n"
+	"content": " Archives These are the links to previous versions of VPP documentation.\nArchives\n"
 },
 {
 	"uri": "http://jadenisco.github.io/vpp-landing-page/categories/",
