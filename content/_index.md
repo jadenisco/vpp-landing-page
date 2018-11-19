@@ -7,4 +7,4 @@ alwaysopen = true
 
 ## Vector Packet Processor
 
-This is the landing page for the VPP documentation
+These pages are to be used as a mock up for the VPP documentation landing page.
